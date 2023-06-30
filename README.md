@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chhavviii
-- 👀 I’m interested in data science
+- 👀 I’m interested in data analysis
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on a website project
 - 📫 How to reach me contact me on my linkedin account https://www.linkedin.com/in/chhavi-tyagi-786675230
